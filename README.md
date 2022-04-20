@@ -1,11 +1,12 @@
 # academia-Infinity
-Reprodução da página inicial de uma academia.
+Uma lading page da academia infinity.
 
 
 
 ## Projeto - Academia Infinity
 
 -  Reprodução de uma página inicial de academia.
+-  Nesse projeto não teve como objetivo criar a página completa, ficará mais para frente.
 
 
 
